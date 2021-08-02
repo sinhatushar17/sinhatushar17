@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tushar Sinha,C.S.E undergrad.
 - 👀 I’m interested in 👨‍💻🏋️👨‍🎨⚽🎼
-- 🌱 I’m currently learning Full Stack Web Development.
+- 🌱 I’m currently learning Full Stack Web Development & have Learnt basic Cloud Computing (Ms Azure).
 - 📫 How to reach me - LinkedIn:https://www.linkedin.com/in/1tushar-sinha- ,Email:sinhatushar17@gmail.com 
 <!---
 sinhatushar17/sinhatushar17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
