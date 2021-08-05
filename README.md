@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tushar Sinha,C.S.E undergrad.
 - 👀 I’m interested in 👨‍💻🏋️👨‍🎨⚽🎼
-- 🌱 I’m currently learning Full Stack Web Development & have learnt basic Cloud Computing (Ms Azure).
+- 🌱 I’m currently learning Full Stack Web Development & Intermediate level Cloud Computing Fundamentals.
 - 📫 How to reach me - LinkedIn:https://www.linkedin.com/in/1tushar-sinha- 
 Email:sinhatushar17@gmail.com 
 <!---
